@@ -630,11 +630,11 @@ weight: 1
 | 03/19/2009 | [Private Session (Graph of Growth and the Unicorn)](/research/other/alien/essassani/transmissions/2009/2009-03-19/) | — |
 | 06/20/2009 | [Debunking the Debunkers](/research/other/alien/essassani/transmissions/2009/2009-06-20/) | — |
 | 06/21/2009 | [Being a Whole Person/Being Your Full Self](/research/other/alien/essassani/transmissions/2009/2009-06-21/) | — |
-| 06/21/2009 | [The Span: 2010-2015](/research/other/alien/essassani/transmissions/2009/2009-06-21-2/) | — |
-| 07/07/2009 | [Blogtalk Radio Bashar Beyond the Secret](/research/other/alien/essassani/transmissions/2009/2009-07-07/) | — |
-| 07/10/2009 | [Blogtalk Radio L.A. Steel Show Discussing Bashar Teachings](/research/other/alien/essassani/transmissions/2009/2009-07-10/) | — |
-| 08/04/2009 | [Blogtalk Radio Show Six Degrees - On Bashar](/research/other/alien/essassani/transmissions/2009/2009-08-04/) | — |
-| 08/29/2009 | [Fifteen Minutes in Hyperspace](/research/other/alien/essassani/transmissions/2009/2009-08-29/) | — |
+| 06/21/2009 | [The Span: 2010-2015](/research/other/alien/essassani/transmissions/2009/2009-06-21-2/) | Ego |
+| 07/07/2009 | [Blogtalk Radio Bashar Beyond the Secret](/research/other/alien/essassani/transmissions/2009/2009-07-07/) |  |
+| 07/10/2009 | [Blogtalk Radio L.A. Steel Show Discussing Bashar Teachings](/research/other/alien/essassani/transmissions/2009/2009-07-10/) | |
+| 08/04/2009 | [Blogtalk Radio Show Six Degrees - On Bashar](/research/other/alien/essassani/transmissions/2009/2009-08-04/) |  |
+| 08/29/2009 | [Fifteen Minutes in Hyperspace](/research/other/alien/essassani/transmissions/2009/2009-08-29/) | Hyper Dimensional Entities |
 | 08/29/2009 | [A Ship to Ship Communication](/research/other/alien/essassani/transmissions/2009/2009-08-29-2/) | — |
 | 09/19/2009 | [Past & Future History](/research/other/alien/essassani/transmissions/2009/2009-09-19/) | — |
 | 09/19/2009 | [The Timeless Now](/research/other/alien/essassani/transmissions/2009/2009-09-19-2/) | — |
