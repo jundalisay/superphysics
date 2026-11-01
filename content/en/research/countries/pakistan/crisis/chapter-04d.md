@@ -17,7 +17,7 @@ This has contributed to perpetual financial crises with every government in the 
 
 <!-- Half-hearted efforts to raise revenue are laid bare by the dismal statistics.  -->
 
-#### Bad Tax Culture
+### Bad Tax Culture
 
 Tax as a percentage of GDP has remained static over decades even though the country's overall output has steadily increased. 
 

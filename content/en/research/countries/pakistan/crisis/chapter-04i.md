@@ -1,5 +1,5 @@
 ---
-title: National Unity Tested by Regional and Religious Pressures '
+title: Continuity and Change in the Post-Musharraf Democratic Era
 weight: 30
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
