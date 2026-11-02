@@ -88,7 +88,7 @@ An atom that radiates energy will increase its aetherspace density, reducing its
 
 {{< youtube -PACl47urLs >}}
 
-use that equation to fix the 3 problems: relative mass, missing mass, and massless photons. I already fixed the vacuum catastrophe from previous:
+<!-- use that equation to fix the 3 problems: relative mass, missing mass, and massless photons. I already fixed the vacuum catastrophe from previous: -->
 
 Problem | Cartesian Solution 
 --- | ---
@@ -103,12 +103,12 @@ E = hf follows from aether wave mechanics, not from m -->
 
 
 
-## Physicsl Proof
+<!-- ## Physicsl Proof
 
 
 `E=mc^2` is falsified by UFOs and levitating Buddhist monks which can defy gravity with our expending so much energy. This is because their anti-gravity mechanism is from the aether or the space outside them. 
 
-{{< youtube 6y3bqvRWRSA >}}
+{{< youtube 6y3bqvRWRSA >}} -->
 
 
 
