@@ -15,13 +15,15 @@ icon: "Juan"
 
 Superphysics was created because of the defiencies in the materialist or limited sciences such as Economics, Sociology, Medicine, etc. 
 
-Material Superphysics was created specifically to fix the deficiencies in the physical sciences such as Physics and Chemistry. 
+Material Superphysics was created specifically to fix the deficiencies in the physical sciences such as Physics and Chemistry so that humans can move forward and get off this burning planet.
 
-The biggest error or scam in Physics is the **Theory of Relativity** of Einstein. This is similar to the **Marginal Revolution** error or scam of Modern Economics that has caused so many problems in society. 
+The biggest error or scam in Physics is the **Theory of Relativity** of Einstein. 
+
+This is similar to the **Marginal Revolution** error or scam of Modern Economics that has caused so many problems in society. 
 - The root cause of the Marginal Revolution scam is the selfishness in every person
-- The root cause of the Relativity scam is the physicality of every person
+- The root cause of the Relativity scam is the illusion of physicality that shallow people think is real
 
-Relativity has held back Physics since the 1900s by misdirecting research efforts towards uselessness, and was vehemently bashed by the genius Nikola Tesla.
+Relativity has held back Physics since the 1900s by misdirecting research efforts towards useless particle colliders (via E=mc^2), and was vehemently bashed by the genius Nikola Tesla.
 
 ![Tesla](/graphics/physics/tesla.jpg)
 
@@ -34,47 +36,59 @@ Relativity has its roots with the Luminiferous Aether idea of Augustin Fresnel w
 <!-- ,  which eventually became the luminiferous aether hypothesis. -->
 
 He got the aether idea from Huygens who got it from Descartes which was actually a totally different idea. 
-
-Huygen's aether is more similar to the 2nd Element of Descartes, and not the spatial aether (which is the aetherspace in Superphysics). 
+- Huygen's aether is merely the 2nd Element of Descartes. This is now called vacuum or empty space.
+- Fresnel's aether is the empty space between molecules such as those in prisms and liquids. This is now intermolecular space within glasses and water. 
 
  <!-- who got it from Timaeus/Socrates who then got it from the Egyptians. -->
 
-Fresnel believed that within space, there was an invisible elastic aether that propelled light and gave it wave properties. This was also eventually adopted by Maxwell.
+Fresnel believed that within the space of crystals and liquids, there was an invisible elastic aether that propelled light and gave it wave properties. 
 
-Since this propulsion was directional, then there should be some drag from the opposite direction as to change the speed of light. This variable speed of light is consistent with Descartes' Physics.
+Fresnel's aether required a liquid mediume, whereas Huygen's aether relied on empty space.
 
-The Michelson-Morley experiment revealed no aether drag and that the speed of light was constant everywhere and in whatever direction.
+This is why Fresnel's aether was proven by Fizeau's experiment which used water, but was disproved by the Michelson Morley experiment which used empty space. 
 
-Before this, it was thought that space was constant and light was changing.
+The Michelson Morley experiment proved that the speed of light was constant regardless if its source was moving. 
 
-After this, physicists realized that space was changing and light was constant.
+This went against Newton's addition of forces. 
 
-This prompted Lorentz to create length contractions (1892), and Poincare to create the Law of Relativity (1902) in space.
-
-Poincare's Law of Relativity is based on a body's current state compared to its initial state and the current states of other bodies, all referencing the current absolute state of the system.
-
-This is consistent with Descartes' Rule 1 of state-change (since the Cartesian aether is arbitrary), and with Quantum Mechanics that came later with Bohr.
+In the Cartesian system, the speed limit is light comes from the speed limit of space particles or the aether which is then limited by Substance or pure aether as the mind of the observer. The pure aether is instant. 
 
 
-### Einstein Messes Up Physics
+{{< q a="Descartes" c="Letter to Beeckman 1634" >}}
+Hold a torch in front of a mirror 400 meters away then wave the torch. You will feel the torch moving AT THE SAME TIME that you see the torch moving in the mirror. 
+If there was a time lag then my entire system would be completely overturned!
+{{< /q >}}
 
-For some reason, Einstein comes out of nowhere in 1905 to hack Poincare's Law of Relativity.
-
-He enshrines the constancy of the speed of light and uses it as a measure of both space and time, disregarding Newton. This is wildly different from Poincare who allowed different times such as Mental time.
-
-
-<!-- - Newtonian time
-- Electromagnetic time
--  -->
-
-This flexibility of time is why Poincare wrote:
-
-{{< q a="Poincare" c="The Measure of Time" >}}
-We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion.
+{{< q a="Descartes" c="Letter to Plempius 1637" >}}
+The light that shoots out from the sun [speed of light in space] is DIFFERENT from this instantaneous information light because sunlight travels through a series of instants.
 {{< /q >}}
 
 
-But Einstein duped everyone and locked space and time to light anyway. This led to `E=mc^2` where `m` is really electromagnetic potential in active particles and not Newtonian mass in static inertial ones.
+So in the Cartesian system, the speed limit means that there is a force limit and size limit.
+
+This size limit manifiests in:
+- the length contraction by Lorentz
+- the principle of relativity by Poincare
+
+
+<!-- This was also eventually adopted by Maxwell.
+- Maxwell's aether is based on empty space and so is equal to Huygen's aether and not Fresnel's aether -->
+
+
+### The Scammer Einstein Versus Poincare
+
+Poincare's Relativity is based on subjective mental time whereas Einstein's is based on objective physical time by using light as the measuring rod. 
+
+{{< q a="Henri Poincare" c="The Measure of Time" >}}
+We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm? The least reflection shows that by itself it has no meaning at all. It will only have the meaning that I give to it, making it arbitrary.
+{{< /q >}}
+
+Poincare's Relativity correctly kept the Huygens aether whereas Einstein discarded it. 
+
+This killed Physics since the aether, not mass, is the cause of gravitation.
+
+
+Einstein duped everyone and locked space and time to light anyway. This led to `E=mc^2` where `m` is really electromagnetic potential in active particles and not Newtonian mass in static inertial ones.
 - Instead of highlighting frequency as done by `E = hf`, `E=mc^2` emphasizess matter. 
 
 This is why it works for uranium which has more electromagnetic potential, but not for iron. This led to nuclear fission at the expense of nuclear fusion which requires anti-gravity which is impossible under Einstein, but possible under Poincare.
@@ -100,14 +114,48 @@ But to Descartes, that light is the current age.
 
 For example, if your friend in Berlin starts a 1 hour Zoom meeting exactly at 6:00 pm, then the you at Tokyo will start it at 2:00 am. A lag of 1 second in the Zoom signal does not mean that Berlin started its meeting late by 1 second.
 
-An Einsteinian would argue that if the lag were 1 hour then at 3:00 am you see your Berlin friend's state at 2:00 am. Therefore, you see a non-current version of your friend.
+- An Einsteinian would argue that if the lag were 1 hour then at 3:00 am you see your Berlin friend's state at 2:00 am. Therefore, you see a non-current version of your friend.
+- A Cartesian would reply that such a lag would mean something unnatural was blocking the signal, causing it to float in limbo for 1 hour. But space telescopes see the light from distant galaxies continuously and not twinkling nor disrupted. So there should be no, or very little lag, in its information.
 
-A Cartesian would reply that such a lag would mean something unnatural was blocking the signal, causing it to float in limbo for 1 hour. But space telescopes see the light from distant galaxies continuously and not twinkling nor disrupted. So there should be no, or very little lag, in its information.
-
-This is why the James Webb Space Telescopes (JWST) shows all distant galaxies as having nearly the same look as ours, instead of being at their infancy.
+This is why the James Webb Space Telescopes (JWST) shows all distant galaxies as having nearly the same look as ours, instead of being at their infancy -- nothing is in limbo.
 
 The problem is that physicists have been conditioned to think that Einstein was a genius. And so they would rather concoct wacky new theories on early galaxy formation to match the data from JWST rather than the more common sense solution of dropping Relativity.
 
 The total refutation of Einstein's Relativity is essential not only in matching the findings of JWST and Hubble. It is also needed to harmonize Classical Mechanics with Quantum Mechanics through the Cartesian Aether as a 'Grand Unifying Theory'.
 
 This unification will create the anti-gravity that is needed for nuclear fusion and space travel that is superior to nuclear fission and Newtonian rockets respectively.
+
+
+<!-- Since this propulsion was directional, then there should be some drag from the opposite direction as to change the speed of light. This variable speed of light is consistent with Descartes' Physics.
+
+The Michelson-Morley experiment revealed no aether drag and that the speed of light was constant everywhere and in whatever direction.
+
+Before this, it was thought that space was constant and light was changing.
+
+After this, physicists realized that space was changing and light was constant.
+
+This prompted Lorentz to create length contractions (1892), and Poincare to create the Law of Relativity (1902) in space.
+
+Poincare's Law of Relativity is based on a body's current state compared to its initial state and the current states of other bodies, all referencing the current absolute state of the system.
+
+This is consistent with Descartes' Rule 1 of state-change (since the Cartesian aether is arbitrary), and with Quantum Mechanics that came later with Bohr. -->
+
+
+<!-- ### Einstein Messes Up Physics
+
+For some reason, Einstein comes out of nowhere in 1905 to hack Poincare's Law of Relativity.
+
+He enshrines the constancy of the speed of light and uses it as a measure of both space and time, disregarding Newton. This is wildly different from Poincare who allowed different times such as Mental time.
+ -->
+
+<!-- - Newtonian time
+- Electromagnetic time
+-  -->
+
+<!-- This flexibility of time is why Poincare wrote:
+
+{{< q a="Poincare" c="The Measure of Time" >}}
+We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion.
+{{< /q >}}
+ -->
+

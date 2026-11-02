@@ -624,7 +624,7 @@ weight: 1
 | 08/19/2008 | [Private Session - (Privates, Codes and iTom)](/research/other/alien/essassani/transmissions/2008/2008-08-19/) | — |
 | 09/15/2008 | [Shift to the Next Earth (Bashar & Ayako Sekino)](/research/other/alien/essassani/transmissions/2008/2008-09-15/) | — |
 | 10/11/2008 | [Download](/research/other/alien/essassani/transmissions/2008/2008-10-11/) | — |
-| 10/12/2008 | [Today is Yesterday's Tomorrow](/research/other/alien/essassani/transmissions/2008/2008-10-12/) | — |
+| 10/12/2008 | [Today is Yesterday's Tomorrow](/research/other/alien/essassani/transmissions/2008/2008-10-12/) | Taking Action |
 | 11/08/2008 | [A Little Tale of Future Earth](/research/other/alien/essassani/transmissions/2008/2008-11-08/) | — |
 | 11/08/2008 | [Above Sedona](/research/other/alien/essassani/transmissions/2008/2008-11-08-2/) | — |
 | 03/19/2009 | [Private Session (Graph of Growth and the Unicorn)](/research/other/alien/essassani/transmissions/2009/2009-03-19/) | — |
