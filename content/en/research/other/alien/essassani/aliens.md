@@ -85,10 +85,11 @@ They are connected to Nature and interact with native indigenous tribes.
 
 ### Anunnaki 
 
-The Anunnaki are now Lyrans that are the origin of the Plaedians. 
+The Anunnaki are now Lyrans that are the origin of the Plaedians. Some Plaedians are on Earth. 
 
-Some Plaedians are on Earth. 
+Ra oversees the genetic programs
 
+Thoth oversees the education of the created humans
 
 
 ### Sirians
@@ -165,12 +166,6 @@ These created vibrations that exploded their planet.
 This led to the infusion of consciounsess on Earth causing the start of humans (Homo erecuts?) on Earth. 
 
 
-
-## Others
-
-Ra oversees the genetic programs
-
-Thoth oversees the education of the created humans
 
 
 

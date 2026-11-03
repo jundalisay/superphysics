@@ -13,11 +13,15 @@ writer:
 
 
 
-In 1644, Descartes explained that magnetism happens when a material body creates straight channels within itself. This allows virtual photons, which he called striated particles, to pass through.
+In 1644, Descartes explained that magnetism happens when a material body gets straight channels within itself. This allows virtual photons, which he called *striated particles*, to pass through.
 
-These virtual photons are corkscrews that enter and exit matter, creating entrance and exit points that Physics call north and south poles. 
+These virtual photons are corkscrews that enter and exit matter, creating entrance and exit points that Physics call *north and south poles*. 
 
-It is impossible to have an entrance without an exit and vice versa. This is why cutting a magnet in half creates a new north and south pole.  
+It is impossible to have an entrance without an exit and vice versa. 
+
+This is why:
+- magnetic monopoles do not exist
+- cutting a magnet in half creates a new north and south pole
 
 {{< i s="/graphics/physics/em.jpg" a="Special Relativity" >}}
 
@@ -25,16 +29,22 @@ The direction of the flow then dictates the attraction or repulsion force.
 
 The same poles of a magnet repel just as 2 people leaving 2 fire exits will clash with each other. But if one exit was changed into an entrance then people will flow seamlessly from exit to entrance.  
 
-An easier analogy is that a virtual photon is a male corkscrew, while matter is female that the screw goes through.  
+An easier analogy is that:
+- a virtual photon is a male bolt
+- matter is a female nut or washer that the bot goes through
 
 Opposite poles attract and fit just like the male part of a lego block fits perfectly with the female part of another block. 
 
-A magnetic moment in a 'fermion' is therefore a channel for such screws.
+A magnetic moment in a 'fermion' is therefore a channel for such bolts.
 
 
 ## Cartesian Eletromagnetism
 
 We extend this to explain electromagnetic flux as the flowing electrons creating a channel for virtual photons. 
+
+The electrons are bolt adapters that increase the size of virtual photons. When connected together, these adapters form channals which facilitate magnetism. 
+
+![Thread](/photos/stuff/thread.jpg)
 
 This creates the same magnetic forces as in iron magnets with the difference that the force can be adjusted by increasing the volume (quantity) or spin (quality) of the channels.
 
