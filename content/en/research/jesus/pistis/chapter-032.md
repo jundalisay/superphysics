@@ -13,15 +13,15 @@ Pistis Sophia cried out most exceedingly, she cried to the Light of lights which
 
 1. O Light of lights, in whom I have had faith from the beginning, hearken now then, O Light, unto my repentance. Save me, O Light, for evil thoughts have entered into me.
 
-"'2. I gazed, O Light, into the lower parts and saw there a light. thinking: I will go to that region, in order that I may take that light. And I went and found myself in the darkness which is in the chaos below, and I could no more speed thence and go to my region, for I was sore pressed by all the emanations of Self-willed, and the lion-faced power took away my light in me.
+2. I gazed, O Light, into the lower parts and saw there a light. thinking: I will go to that region, in order that I may take that light. And I went and found myself in the darkness which is in the chaos below, and I could no more speed thence and go to my region, for I was sore pressed by all the emanations of Self-willed, and the lion-faced power took away my light in me.
 
-"'3. And I cried for help, but my voice hath not reached out of the darkness. I looked unto the height, that the Light, in which I had had faith, might help me.
+3. And I cried for help, but my voice hath not reached out of the darkness. I looked unto the height, that the Light, in which I had had faith, might help me.
 
-"'4. And when I looked unto the height, I saw all the rulers of the æons, how in their numbers they looked down on me and rejoiced over me, though I had done them no ill; but they hated me without a cause. And when the emanations of Self-willed saw the rulers of the æons rejoicing over me, they knew that the rulers of the æons would not come to my aid; and those emanations which sore pressed me with violence, took courage, and the light which I had not taken from them, they have taken from me.
+4. And when I looked unto the height, I saw all the rulers of the æons, how in their numbers they looked down on me and rejoiced over me, though I had done them no ill; but they hated me without a cause. And when the emanations of Self-willed saw the rulers of the æons rejoicing over me, they knew that the rulers of the æons would not come to my aid; and those emanations which sore pressed me with violence, took courage, and the light which I had not taken from them, they have taken from me.
 
-"'5. Now, therefore, O Light of Truth, thou knowest that I have done this in my innocence, thinking that the lion-faced light-power belonged to thee; and the sin which I have done is open before thee.
+5. O Light of Truth, thou knowest that I have done this in my innocence, thinking that the lion-faced light-power belonged to thee; and the sin which I have done is open before thee.
 
-"'6. Suffer me no more to lack, O Lord, for I have had faith in thy light from the beginning; O Lord, O Light of the powers, suffer me no more to lack my light.
+6. Suffer me no more to lack, O Lord, for I have had faith in thy light from the beginning; O Lord, O Light of the powers, suffer me no more to lack my light.
 
 "'7. For because of thy inducement and for the sake of thy light am I fallen into this oppression, and shame hath covered me.
 

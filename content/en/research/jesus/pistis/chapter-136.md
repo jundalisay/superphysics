@@ -88,9 +88,10 @@ The incorruptible names of the regents.
 I have told you for the first time the names of these five great rulers with which the men of the world are wont to call them. Hearken now then that I may tell you also their incorruptible names, which are: Ōrimouth correspondeth to Kronos; Mounichounaphōr correspondeth to Arēs; Tarpetanouph correspondeth to Hermēs; Chōsi correspondeth to Aphroditē; Chōnbal correspondeth to Zeus. These are their incorruptible names."
 
 
-CHAPTER 138
 
-And when the disciples had heard this, they fell down, adored Jesus and said "Blessed are we beyond all men, because thou hast revealed unto us these great wonders."
+### CHAPTER 138
+
+When the disciples had heard this, they fell down, adored Jesus and said "Blessed are we beyond all men, because thou hast revealed unto us these great wonders."
 
 They continued, besought him and said: "We beseech thee, reveal unto us: What are then these ways?"
 
@@ -113,5 +114,3 @@ When then Mary said this weeping, Jesus answered in great compassion and said un
 "And I will give you the great mystery of the Treasury of the Light and |364. the manner of invocation for reaching thither.
 
 "I will give you all the mysteries and all the gnoses, in order that ye may be called 'children of the fulness, perfected in all the gnoses and all the mysteries.' Blessed are ye beyond all men on earth, for the children of the Light are come in your time."
-
-

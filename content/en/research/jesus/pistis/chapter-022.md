@@ -26,7 +26,7 @@ On account of what mystery hast thou changed the binding of the rulers and their
 
 
 
-## CHAPTER 23: Why the path of the æons was changed
+## Chapter 23: Why the path of the æons was changed
 
 
 {{< l a="Jesus" >}}
@@ -49,23 +49,37 @@ In what way will the souls have delayed themselves here outside, and in what typ
 {{< /r >}}
 
 
-### CHAPTER 25
+### CHAPTER 25: Melchizedek
 
-{{< l a="Jesus" >}}
-You throw light on all things with surety and precision. From now on will I hide nothing from you, but I will reveal unto you all things with surety and openness. 
+<!-- You throw light on all things with surety and precision. From now on will I hide nothing from you, but I will reveal unto you all things with surety and openness.  -->
 
-Before I made proclamation to all the rulers of the æons and to all the rulers of the Fate and Of the sphere, they were all bound in their bonds and in their spheres and in their seals, as Yew, the Overseer of the Light, had bound them from the beginning; and every one of them remained in his order, and every one journeyed according to his course, as Yew, the Overseer of the Light, had established them. 
+Before I made proclamation to all the rulers of the æons [star systems] and to all the rulers of the Fate and Of the sphere [planet], they were all bound in their bonds and in their spheres [planet] and in their seals, as Yew, the Overseer of the Light, had bound them from the beginning.
 
-When the time of the number of Melchizedek, the great Receiver of the Light, The coming of Melchisedec came, he was wont to come into the midst of the æons and of all the rulers who are bound in the sphere and in the Fate, and he carried away the purification of the light from all the rulers of the æons and from all the rulers of the Fate and from those of the sphere--for he carried away then that which brings them into agitation--and he set in motion the hastener who is over them, and made them turn their circles swiftly, and he [sc. the hastener] carried away their power which was in them and the breath of their mouth and the tears [lit. waters] of their eyes and the sweat of their bodies.
+Every one of them remained in his order, and every one journeyed according to his course, as Yew, the Overseer of the Light, had established them. 
 
-Melchizedek, the Receiver of the Light, purifieth those powers and carried their light into the Treasury of the Light while:
+When the time of the number of 
+
+Melchizedek was the great Receiver of the Light.
+
+When Melchizedek came, he was wont to come into the midst of the æons [star systems] and of all the rulers who are bound in the sphere [planet] and in the Fate. 
+
+He carried away the purification of the light from all the rulers of the æons and from all the rulers of the Fate and from those of the sphere.
+
+He carried away that which brings them into agitation. He set in motion the hastener who is over them, and made them turn their circles swiftly, and he [the hastener] carried away their power which was in them and the breath of their mouth and the tears [lit. waters] of their eyes and the sweat of their bodies.
+
+Melchizedek, the Receiver of the Light, purified those powers and carried their light into the Treasury of the Light while:
 - the servitors of all the rulers gather together all matter from them all
 - the servitors of all the rulers of the Fate and the servitors of the sphere which is below the æons, take it and fashion it into souls of men and cattle and reptiles and wild-beasts and birds, and send them down into the world of mankind. 
 
-The receivers of the sun and the receivers of the moon, if they look above and see the configurations of the paths of the æons and the configurations of the Fate and those of the sphere, then they take from them the light-power; and the |36. receivers of the sun get it ready and deposit it, until they hand it over to the receivers of Melchisedec, the Light-purifier.
+The receivers of the sun and the receivers of the moon, if they look above and see the configurations of the paths of the æons and the configurations of the Fate and those of the sphere, then they take from them the light-power.
 
-Their material refuse they bring to the sphere which is below the æons, and fashion it into [souls of] men, and fashion it also into souls of reptiles and of cattle and of wild-beasts and of birds, according to the circle of the rulers of that sphere and according to all the configurations of its revolution, and they cast them into this world of mankind, and they become souls in this region.
-{{< /l >}}
+The receivers of the sun get it ready and deposit it, until they hand it over to the receivers of Melchizedek, the Light-purifier.
+
+Their material refuse they bring to the sphere [planet] which is below the æons [star systems], and fashion it into:
+- [the souls of] men
+- the souls of reptiles and of cattle and of wild-beasts and of birds
+
+This is according to the circle of the rulers of that sphere and according to all the configurations of its revolution, and they cast them into this world of mankind, and they become souls in this region.
 
 
 {{< n n="Bashar explained that Melchizedek was the world spirit of Maldex which went to Earth to blend with Gaia" >}}

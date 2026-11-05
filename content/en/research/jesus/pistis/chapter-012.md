@@ -9,25 +9,41 @@ c: "indigo"
 
 
 
-I left that region behind me and ascended to the first sphere, shining most exceedingly, forty-and-nine-times more brightly than I had shone in the firmament. It came to pass then, when I had reached the gate of the first sphere, that its gates were shaken and opened of themselves at once.
+I left that region behind me and ascended to the first sphere [planet], shining most exceedingly, 49 times more brightly than I had shone in the firmament.
 
-The powers of the first sphere are amazed and fall down and adore him."I entered into the houses of the sphere, shining most exceedingly, and there was no measure to the light that was about me. And all the rulers and all those who are in that sphere, fell into agitation one against another. And they saw the great light that was about me, and they gazed upon my vesture and saw thereon the mystery of their name. And they fell into still greater agitation, and were in great fear, saying: 'How hath the lord of the universe passed through us without our knowing?' |22. And all their bonds were unloosed and their regions and their orders; and every one left his order, and they fell down all together, adored before me, or before my vesture, and all sang praises together to the interiors of the interiors, being in great fear and great agitation.
+It came to pass then, when I had reached the gate of the first sphere [planet], that its gates were shaken and opened of themselves at once.
+
+"I entered into the houses of the sphere, shining most exceedingly, and there was no measure to the light that was about me. And all the rulers and all those who are in that sphere, fell into agitation one against another. 
+
+They saw the great light that was about me, and they gazed upon my vesture and saw thereon the mystery of their name. And they fell into still greater agitation, and were in great fear, saying: 'How hath the lord of the universe passed through us without our knowing?' 
+
+And all their bonds were unloosed and their regions and their orders; and every one left his order, and they fell down all together, adored before me, or before my vesture, and all sang praises together to the interiors of the interiors, being in great fear and great agitation.
 
 
 ### CHAPTER 13
 
-He entereth the second sphere."And I left that region behind me and came to the gate of the second sphere, which is the Fate. Then were all its gates thrown into agitation and opened of themselves. And I entered into the houses of the Fate, shining most exceedingly, and there was no measure for the light that was about me, for I shone in the Fate forty-and-nine times more than in the [first] sphere.
+I left that region behind me and came to the gate of the second sphere [planet], which is the Fate.
 
-The powers of the second sphere are amazed and fall down and adore him."And all the rulers and all those who are in the Fate, were thrown into agitation and fell on one another and were in exceeding great fear on seeing the great light that was about me. And they gazed on my vesture of light and saw the mystery of their name on my vesture and fell into still greater agitation; and they were in great fear, saying: 'How hath the lord of the universe passed through us without our knowing?' And all the bonds of their regions and of their orders and of their houses were unloosed; they all came at once, fell down, adored before me and sang praises all together |23. to the interiors of the interiors, being in great fear and great agitation.
+Then were all its gates thrown into agitation and opened of themselves. And I entered into the houses of the Fate, shining most exceedingly, and there was no measure for the light that was about me, for I shone in the Fate forty-and-nine times more than in the [first] sphere [planet].
+
+All the rulers and all those who are in the Fate, were thrown into agitation and fell on one another and were in exceeding great fear on seeing the great light that was about me.
+
+They gazed on my vesture of light and saw the mystery of their name on my vesture and fell into still greater agitation; and they were in great fear, saying: 'How hath the lord of the universe passed through us without our knowing?' And all the bonds of their regions and of their orders and of their houses were unloosed; they all came at once, fell down, adored before me and sang praises all together |23. to the interiors of the interiors, being in great fear and great agitation.
 
 
 ### CHAPTER 14
 
 He entereth the æons."And I left that region behind me and ascended to the great æons of the rulers and came before their veils and their gates, shining most exceedingly, and there was no measure for the light which was about me.
 
-It came to pass then, when I arrived at the 12 æons, that their veils and their gates were shaken one over against the other. Their veils drew themselves apart of their own accord, and their gates opened one over against the other. And I entered into the æons, shining most exceedingly, and there was no measure for the light that was about me, forty-and-nine times more than the light with which I shone in the houses of the Fate.
+It came to pass then, when I arrived at the 12 æons [star systems], that their veils and their gates were shaken one over against the other. 
 
-The powers of the æons are amazed and fall down and adore him."And all the angels of the æons and their archangels and their rulers and their gods and their lords and their authorities and their tyrants and their powers and their light-sparks and their light-givers and their unpaired and their invisibles and their forefathers and their triple-powers saw me, shining most exceedingly, and there was no measure for the light which was about me. And they were thrown into agitation the one over against the other and great fear fell upon them, when they saw the great light that was about me. And in their great agitation and their great fear they withdrew as far as |24. the region of the great invisible Forefather, and of the three great triple-powers. And because of the great fear of their agitation, the great Forefather, he and the three triple-powers, kept on running hither and thither in his region, and they could not close all their regions because of the great fear in which they were. And they agitated all their æons together and all their spheres and all their orders, fearing and being greatly agitated because of the great light which was about me--not of the former quality that it was about me when I was on the earth of man-kind, when the light-vesture came over me,--for the world could not bear the light such as it was in its truth, else would the world at once be destroyed and all upon it,--but the light which was about me in the twelve æons was eight-thousand-and-seven-hundred-myriad times greater than that which was about me in the world among you.
+Their veils drew themselves apart of their own accord, and their gates opened one over against the other. 
+
+I entered into the æons, shining most exceedingly, and there was no measure for the light that was about me, 49 times more than the light with which I shone in the houses of the Fate.
+
+All the angels of the æons and their archangels and their rulers and their gods and their lords and their authorities and their tyrants and their powers and their light-sparks and their light-givers and their unpaired and their invisibles and their forefathers and their triple-powers saw me, shining most exceedingly, and there was no measure for the light which was about me. And they were thrown into agitation the one over against the other and great fear fell upon them, when they saw the great light that was about me. 
+
+And in their great agitation and their great fear they withdrew as far as the region of the great invisible Forefather, and of the three great triple-powers. And because of the great fear of their agitation, the great Forefather, he and the three triple-powers, kept on running hither and thither in his region, and they could not close all their regions because of the great fear in which they were. And they agitated all their æons together and all their spheres and all their orders, fearing and being greatly agitated because of the great light which was about me--not of the former quality that it was about me when I was on the earth of man-kind, when the light-vesture came over me,--for the world could not bear the light such as it was in its truth, else would the world at once be destroyed and all upon it,--but the light which was about me in the twelve æons was eight-thousand-and-seven-hundred-myriad times greater than that which was about me in the world among you.
 
 
 

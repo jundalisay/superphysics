@@ -32,8 +32,7 @@ Peter interpreteth the tenth repentance from Psalm cxix."'1. I cried unto thee, 
 Jesus commendeth Peter.Jesus said unto him: "Well said, Peter, and finely. This is the solution of the tenth repentance of Pistis Sophia."
 
 
-
-CHAPTER 54
+### CHAPTER 54
 
 Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when this lion-faced power saw me, how I drew nigh unto Pistis Sophia, shining very exceedingly, that it grew still more furious and emanated from itself a multitude of exceedingly violent emanations. When this then befell, Pistis Sophia uttered the eleventh repentance, saying:
 
@@ -76,4 +75,3 @@ Salome interpreteth the repentance from Psalm li."'1. Why doth the mighty [one] 
 "This then is now, therefore, my Lord, the solution of the eleventh repentance of Pistis Sophia. While thy light-power hath roused me, I have spoken it according to thy desire."
 
 Jesus commendeth Salome.It came to pass then, when Jesus had heard these words which Salome spake, that he said: "Well said, Salome. Amēn, amēn, I say unto you: I will perfect you in all mysteries of the kingdom of the Light."
-

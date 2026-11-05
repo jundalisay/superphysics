@@ -47,11 +47,11 @@ It came to pass then, when Jesus had finished speaking these words unto his disc
 
 And Peter started forward and said unto Jesus:
 
-p. 47
 
-[paragraph continues] Peter complaineth of Mary."My Lord, we will not endure this woman, for she taketh the opportunity from us and hath let none of us speak, but she discourseth many times."
+We will not endure this woman, for she taketh the opportunity from us and hath let none of us speak, but she discourseth many times."
 
-And Jesus answered and said unto his disciples: "Let him in whom the power of his spirit shall seethe, so that he understandeth what I say, |58.come forward and speak. But now, Peter, I see thy power in thee, that it understandeth the solution of the mystery of the repentance which Pistis Sophia hath uttered. Now, therefore, Peter, speak the thought of her repentance in the midst of thy brethren."
+
+Jesus: "Let him in whom the power of his spirit shall seethe, so that he understandeth what I say, come forward and speak. But now, Peter, I see thy power in thee, that it understandeth the solution of the mystery of the repentance which Pistis Sophia hath uttered. Now, therefore, Peter, speak the thought of her repentance in the midst of thy brethren."
 
 Peter interpreteth the second repentance from Psalm lxx.And Peter answered and said unto Jesus "O Lord, give ear that I may speak the thought of her repentance, of which aforetime thy power prophesied through the prophet David, uttering her repentance in the seventieth Psalm:
 
@@ -67,9 +67,7 @@ Peter interpreteth the second repentance from Psalm lxx.And Peter answered and s
 
 "'6. I have trusted myself to thee from my mother's womb; thou hast brought me out of my mother's womb. My remembrance is ever in thee.
 
-"'7. I have become as the crazy for many; |59.
-
-p. 48
+"'7. I have become as the crazy for many;
 
 thou art my help and my strength, thou art my deliverer, O Lord.
 
@@ -90,7 +88,9 @@ thou art my help and my strength, thou art my deliverer, O Lord.
 
 ## CHAPTER 37
 
-Jesus promiseth to perfect the disciples in all things.The Saviour answered and said unto Peter: "Finely, Peter; this is the solution of her repentance. Blessed are ye before all men on the earth, because I have revealed unto you these mysteries. Amēn, amēn, I say unto you: |60. I will perfect you in all fulness from the mysteries of the interior to the mysteries of the exterior and fill you with the spirit, so that ye shall be called 'spiritual, perfected in all fulness.' And, amēn, amēn, I say unto you: I will give unto you all the mysteries of all the regions of my Father and of all the regions of the First Mystery, so that he whom ye shall admit on earth, shall be admitted into the Light of the height; and he whom ye shall expel on earth, shall be expelled from the kingdom of my Father in the heaven. But hearken, therefore, and give ear attentively to all the repentances which Pistis Sophia hath uttered. She continued again and uttered the third repentance, saying:
+Jesus: "Finely, Peter; this is the solution of her repentance. Blessed are ye before all men on the earth, because I have revealed unto you these mysteries. Amēn, amēn, I say unto you: |60. I will perfect you in all fulness from the mysteries of the interior to the mysteries of the exterior and fill you with the spirit, so that ye shall be called 'spiritual, perfected in all fulness.' And, amēn, amēn, I say unto you: 
+
+I will give unto you all the mysteries of all the regions of my Father and of all the regions of the First Mystery, so that he whom ye shall admit on earth, shall be admitted into the Light of the height; and he whom ye shall expel on earth, shall be expelled from the kingdom of my Father in the heaven. But hearken, therefore, and give ear attentively to all the repentances which Pistis Sophia hath uttered. She continued again and uttered the third repentance, saying:
 
 The third repentance of Sophia."'1. O Light of powers, give heed and save me.
 

@@ -11,9 +11,12 @@ c: "indigo"
 
 CHAPTER 68
 
-It came to pass then, when the First Mystery had heard these words, that he said: "Well said, James, |148. beloved one."
 
-And the First Mystery continued again in the discourse and said unto his disciples: "It came to pass, when I had led Pistis Sophia out of the chaos, that she cried out again and said:
+
+{{< l a="Jesus" >}}
+When I had led Pistis Sophia out of the chaos, that she cried out again and said
+{{< /l >}}
+
 
 Sophia singeth a song of praise."'1. I am saved out of the chaos and loosed from the bonds of the darkness. I am come unto thee, O Light.
 
@@ -25,11 +28,7 @@ Sophia singeth a song of praise."'1. I am saved out of the chaos and loosed from
 
 "'5. And thereafter came a light-stream unto me through thee which saved me; it shone on my left and on my right and surrounded me on all sides of me, so that no part of me was without light.
 
-"'6. And thou hast covered me with the light
-
-p. 125
-
-of thy stream and purged from me all my evil matters; and I shall be relieved of all my matters because of thy light.
+"'6. And thou hast covered me with the light of thy stream and purged from me all my evil matters; and I shall be relieved of all my matters because of thy light.
 
 "'7. And it is thy light-stream which hath raised me up and taken from me the emanations of Self-willed which constrained me.
 
@@ -41,11 +40,18 @@ of thy stream and purged from me all my evil matters; and I shall be relieved of
 
 
 
-CHAPTER 69
+## CHAPTER 69
 
-When the First Mystery had finished saying these words unto his disciples, that Thomas came forward, and said: "My Lord, my light-dweller hath ears and my mind hath understood the words which thou hast said. Now, therefore, give commandment unto me to set forth clearly the solution of the words."
+Thomas came forward.
 
-And the First Mystery answered and said unto Thomas: "I give thee commandment to set forth the solution of the song which Pistis Sophia sang unto me."
+{{< r a="Thomas" >}}
+my light-dweller hath ears and my mind hath understood the words which thou hast said. Now, therefore, give commandment unto me to set forth clearly the solution of the words.
+{{< /r >}}
+
+{{< l a="Jesus" >}}
+I give you commandment to set forth the solution of the song which Pistis Sophia sang unto me.
+{{< /l >}}
+
 
 Thomas interpreteth the song of Sophia from the Odes of Solomon.Thomas answered and said: "My Lord, concerning the song which Pistis Sophia hath uttered, because she was saved out of the chaos, thy light-power prophesied aforetime thereon through Solomon, the son of David, in his Odes:
 
@@ -115,7 +121,7 @@ And the word which thy power hath spoken: 'My adversaries have withdrawn themsel
 
 
 
-CHAPTER 70
+## CHAPTER 70
 
 It came to pass then when the First Mystery had heard Thomas say these words, that he said unto him: "Well said, finely, Thomas, blessed one. This is the solution of the song which Pistis Sophia hath uttered."
 

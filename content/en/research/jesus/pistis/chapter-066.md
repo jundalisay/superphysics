@@ -8,45 +8,96 @@ c: "indigo"
 ---
 
 
-The First Mystery continued again in the discourse and said: "It came to pass then, before I had led forth Pistis Sophia out of the chaos, because it was not yet commanded me through my Father, the First Mystery which looketh within,--at that time then, after the emanations of Self-willed had perceived that my light-stream had taken from them the light-powers which they had taken from Pistis Sophia, and had poured them into Pistis Sophia, and when they again had seen Pistis Sophia, that she shone as she had done from the beginning, that they were enraged against Pistis Sophia and cried out again to their Self-willed, that he should come and help them, so that they might take away the powers in Pistis Sophia anew.
+Before I had led forth Pistis Sophia out of the chaos, because it was not yet commanded me through my Father, the First Mystery which looketh within,--at that time then, after the emanations of Self-willed had perceived that my light-stream had taken from them the light-powers which they had taken from Pistis Sophia, and had poured them into Pistis Sophia, 
 
-He sendeth forth another more violent power like unto a flying arrow."And Self-willed sent out of the height, out of the thirteenth æon, and sent another great light-power. It came down into the chaos |136. as a flying arrow, that he might help his emanations, so that they might take away the lights from Pistis Sophia anew. And when that light-power had come down, the emanations of Self-willed which were in the chaos and oppressed Pistis Sophia, took great courage and again pursued Pistis Sophia with great terror and great alarm. And some of the emanations of Self-willed oppressed her. One of them changed itself into
+when they again had seen Pistis Sophia, that she shone as she had done from the beginning, that they were enraged against Pistis Sophia and cried out again to their Self-willed, that he should come and help them, so that they might take away the powers in Pistis Sophia anew.
 
-The fashioning of the serpent-, basilisk- and dragon-powers.the form of a great serpent; another again changed itself also into the form of a seven-headed basilisk; another again changed itself into the form of a dragon. And moreover the first power of Self-willed, the lion-faced, and all his other very numerous emanations, they came together and oppressed Pistis Sophia and led her again into the lower regions of the chaos and alarmed her again exceedingly.
 
-The demon-power of Adamas dasheth Sophia down.
 
-There looked down out of the 12 æons, Adamas, the Tyrant, who also was wroth with Pistis Sophia, because she desired to go to the Light of lights, which was above them all; therefore was he wroth with her. It came to pass then, when Adamas, the Tyrant, had looked down out of the twelve æons, that he saw the emanations of Self-willed oppressing Pistis Sophia, until they should take from her all her lights. 
+He sent forth another more violent power like unto a flying arrow."
 
-It came to pass then, when the power of Adamas had come down into the chaos unto all the emanations of Self-willed,--it came to pass then, when that demon came down into the chaos, that it dashed down Pistis Sophia. And the lion-faced power and the serpent-form and the basilisk-form and the dragon-form and all the other very numerous emanations of Self-willed surrounded Pistis Sophia all together, desiring to take from her anew her powers in her, and they oppressed Pistis Sophia exceedingly and threatened her. It came to pass then, when they oppressed her and alarmed her exceedingly, that she cried again to the Light and sang praises, saying:
+Self-willed sent out another great light-power out of 13th æon, and sent.
 
-"'1. O Light, it is thou who hast helped me; let thy light come over me.
+It came down into the chaos as a flying arrow, that he might help his emanations, so that they might take away the lights from Pistis Sophia anew. 
 
-Sophia again crieth to the Light."'2. For thou art my protector, and I come hence unto thee, O Light, having faith in thee, O Light.
+When that light-power had come down, the emanations of Self-willed which were in the chaos and had oppressed Pistis Sophia, took great courage and again pursued Pistis Sophia with great terror.
 
-"'3. For thou art my saviour from the emanations of Self-willed and of Adamas, the Tyrant, and thou shalt save me from all his violent threats.'
+Some of the emanations of Self-willed oppressed her. 
 
-Gabriēl and Michaēl and the light-stream again go to her aid."And when Pistis Sophia had said this, then at the commandment |138. of my Father, the First Mystery which looketh within, I sent again Gabriēl and Michaēl and the great light-stream, that they should help Pistis Sophia. 
+- One of them changed itself into a great serpent
+- Another changed itself also into a seven-headed basilisk
+- Another changed itself into a dragon
 
-I gave commandment unto Gabriēl and Michaēl to bear Pistis Sophia in their hands, so that her feet should not touch the darkness below; and I gave them commandment moreover to guide her in the regions of the chaos, out of which she was to be led.
+The first power of Self-willed was the lion-faced [Lyran Archons?].
 
-"It came to pass then, when the angels had come down into the chaos, they and the light-stream, and moreover [when] all the emanations of Self-willed and the emanations of Adamas had seen the light-stream, how it shone very exceedingly and there was no measure for the light about it, that they became terror-stricken and quitted Pistis Sophia. And the great light-stream surrounded Pistis Sophia on all sides of her, on her left and on her right and on all her sides, and it became a light-wreath round her head.
+This and all his other very numerous emanations came together and:
+- oppressed Pistis Sophia
+- led her again into the lower regions of the chaos and alarmed her again exceedingly.
+
+<!-- The fashioning of the serpent-, basilisk- and dragon-powers.
+
+
+The demon-power of Adamas dasheth Sophia down. -->
+
+There looking down out of the 12 æons was Adamas the Tyrant.
+
+He was also angry with Pistis Sophia because she wanted to go to the Light of lights, which was above them all.
+
+When Adamas had looked down out of the 12 æons, he saw the emanations of Self-willed oppressing Pistis Sophia taking away from her all her lights. 
+
+So the power of Adamas came down into the chaos and dashed down Pistis Sophia.
+
+The following surrounded surrounded Pistis Sophia:
+- the lion-faced power
+- the serpent-form
+- the basilisk-form
+- the dragon-form
+- all the other very numerous emanations of Self-willed  
+
+They wanted to take from her anew her powers. They oppressed Pistis Sophia exceedingly and threatened her. 
+
+She cried again to the Light and sang praises, saying:
+
+"'1. O Light, you have helped me. Let your light come over me.
+
+2. For you are my protector, and I come hence unto thee, O Light, having faith in thee, O Light.
+
+"'3. For you art my saviour from the emanations of Self-willed and of Adamas, the Tyrant, and thou shalt save me from all his violent threats.'
+
+<!-- Gabriēl and Michaēl and the light-stream again go to her aid. -->
+
+At the commandment of my Father, I looked within and sent again Gabriēl and Michaēl and the great light-stream, that they should help Pistis Sophia. 
+
+I ordered Gabriēl and Michaēl to:
+- carry Pistis Sophia so that her feet should not touch the darkness below
+- guide her in the regions of the chaos, out of which she was to be led.
+
+When the angels had come down into the chaos, they and the light-stream, and moreover [when] all the emanations of Self-willed and the emanations of Adamas had seen the light-stream, how it shone very exceedingly and there was no measure for the light about it, that they became terror-stricken and quitted Pistis Sophia.
+
+The great light-stream surrounded Pistis Sophia on all sides of her, on her left and on her right and on all her sides, and it became a light-wreath round her head.
 
 "It came to pass then, when the light-stream had surrounded Pistis Sophia, that she took great courage, and it ceased not to surround her on all her sides; and she was no longer in fear of the emanations of Self-willed which are in the chaos, nor was she any more in fear of the other new power of Self-willed which he had cast down into the chaos |139. as a flying arrow, nor did she any more tremble at the demon power of Adamas which had come out of the æons.
 
-The transfiguration of Sophia.
-
-moreover by commandment of myself, the First Mystery which looketh without, the light-stream which surrounded Pistis Sophia on all her sides, shone most exceedingly, and Pistis Sophia abode in the midst of the light, a great light being on her left and on her right, and on all her sides, forming a wreath round her head. And all the emanations of Self-willed [could] not change their face again, nor could they bear the shock of the great light of the stream, which was a wreath round her head. And all the emanations of Self-willed,--many of them fell at her right, because she shone most exceedingly, and many others fell at her left, and were not able at all to draw nigh unto Pistis Sophia because of the great light; but they fell all one on another, or they all came near one another, and they could not inflict any ill on Pistis Sophia, because she had trusted in the Light.
-
-Jesus, the First Mystery looking without, causeth Sophia to triumph."And at the commandment of my Father, the First Mystery which looketh within, I myself went down into the chaos, shining most exceedingly, and approached the lion-faced power, which shone exceedingly, and took its whole light in it and held fast all the emanations of Self-willed, so that from now on they went not into their region, that is the thirteenth æon. And I took away the power of all the emanations of Self-willed, and they all fell down in the chaos powerless. And I led forth Pistis Sophia, she being on the right of Gabriēl and Michaēl. And the great light-stream entered again into her. And Pistis Sophia beheld with her eyes her foes, that I had taken their light-power from them. And I led Pistis Sophia forth from the chaos, she treading under foot the serpent-faced emanation of Self-willed, and moreover treading under foot the seven-faced-basilisk emanation, and treading under foot the lion- and dragon-faced power. I made Pistis Sophia continue to stand upon the seven-headed-basilisk emanation of Self-willed; and it was more mighty than them all in its evil doings. And I, the First Mystery, stood by it and took all the powers in it, and made to perish its whole matter, so that no seed should arise from it from now on."|
 
 
+### The transfiguration of Sophia.
 
+The light-stream which surrounded Pistis Sophia shone most exceedingly. 
+
+<!-- and Pistis Sophia abode in the midst of the light, a great light being on her left and on her right, and on all her sides, forming a wreath round her head. And all the emanations of Self-willed [could] not change their face again, nor could they bear the shock of the great light of the stream, which was a wreath round her head. And all the emanations of Self-willed,--many of them fell at her right, because she shone most exceedingly, and many others fell at her left, and were not able at all to draw nigh unto Pistis Sophia because of the great light; but they fell all one on another, or they all came near one another, and they could not inflict any ill on Pistis Sophia, because she had trusted in the Light. -->
+
+<!-- Jesus, the First Mystery looking without, causeth Sophia to triumph."And  -->
+
+At the commandment of my Father, the First Mystery which looketh within, I myself went down into the chaos, shining most exceedingly, and approached the lion-faced power, which shone exceedingly, and took its whole light in it and held fast all the emanations of Self-willed, so that from now on they went not into their region, that is the thirteenth æon. And I took away the power of all the emanations of Self-willed, and they all fell down in the chaos powerless. 
+
+I led forth Pistis Sophia, she being on the right of Gabriēl and Michaēl. And the great light-stream entered again into her. And Pistis Sophia beheld with her eyes her foes, that I had taken their light-power from them. 
+
+I led Pistis Sophia forth from the chaos, she treading under foot the serpent-faced emanation of Self-willed, and moreover treading under foot the seven-faced-basilisk emanation, and treading under foot the lion- and dragon-faced power. I made Pistis Sophia continue to stand upon the seven-headed-basilisk emanation of Self-willed; and it was more mighty than them all in its evil doings. And I, the First Mystery, stood by it and took all the powers in it, and made to perish its whole matter, so that no seed should arise from it from now on."|
 
 
 ## CHAPTER 67
 
-When the First Mystery said this unto his disciples, he answered and said: "Understand ye in what manner I discourse with you?"
+<!-- When the First Mystery said this unto his disciples, he answered and said: "Understand ye in what manner I discourse with you?" -->
 
 James came forward and said: "My Lord, concerning then the solution of the words which thou hast said, thus hath thy light-power prophesied thereon aforetime through David in the ninetieth Psalm:
 

@@ -12,7 +12,11 @@ Jesus leadeth Sophia to a less confined region, but without the commandment of t
 
 When the material emanations of Self-willed had noticed that she had been led into a somewhat spacious region in the chaos, they ceased a little to oppress her, for they thought that she would be led up out of the chaos altogether.
 
-When this then took place, Pistis Sophia did not know that I was her helper; nor did she know me at all, but she continued and persisted withal singing praises to the Light of the Treasury, which she had seen aforetime and on which she had had faith, and she thought that it [sc. the Light] also was her helper and it was the same to which she had sung praises, thinking it was the Light in truth. But as indeed she had had faith in the Light which belongeth to the Treasury in truth, therefore will she be led up out of the chaos and her repentance will be accepted from her. But the commandment of the First Mystery was not yet accomplished to accept her repentance from her. But hearken now in order that I may tell you all things which befell Pistis Sophia.
+When this then took place, Pistis Sophia did not know that I was her helper; nor did she know me at all. But she continued and persisted withal singing praises to the Light of the Treasury, which she had seen aforetime and on which she had had faith.
+
+And she thought that it — that is, the Light — also was her helper, and it was the same to which she had sung praises, thinking it was the Light in truth. But as indeed she had had faith in the Light which belongeth to the Treasury in truth, therefore will she be led up out of the chaos and her repentance will be accepted from her.
+
+But the commandment of the First Mystery was not yet accomplished to accept her repentance from her. But hearken now, in order that I may tell you all things which befell Pistis Sophia.
 
 The emanations of Self-willed oppress her again."It came to pass, when I had led her unto a somewhat spacious region in the chaos, that the emanations of Self-willed ceased entirely to oppress her, thinking that she would be led up out of the chaos altogether. It came to pass then, when |84. the emanations of Self-willed had noticed that Pistis Sophia had not been led up out the chaos, that they turned about again all together, oppressing her vehemently. Because of this then she uttered the eighth repentance, because they had not ceased to oppress her, and had turned about to oppress her to the utmost. She uttered this repentance, saying thus:
 
@@ -37,7 +41,8 @@ keep watch over me and will not be able to lay hold of me utterly. But I have ha
 "'8. And thou hast not left me in the hand of the lion-faced power; but thou hast led me into a region which is not oppressed.'"
 
 
-CHAPTER 48
+
+### CHAPTER 48
 
 The emanations of Self-willed cease for a time to oppress Sophia.When then Jesus had said this unto his disciples, he answered again and said unto them: "It came to pass then, when the lion-faced power had noticed that Pistis Sophia had not been led up altogether out of the chaos, |85. that it came again with all the other material emanations of Self-willed, and they oppressed Pistis Sophia again. It came to pass then, when they oppressed her, that she cried out in the same repentance, saying:
 
@@ -45,11 +50,9 @@ She continueth her repentance."'9. Have mercy upon me, O Light, for they have op
 
 "'10. My power hath begun to wane whiles I am in these afflictions, and the number of my time whiles I am in the chaos. My light is diminished, for they have taken away my power from me, and all the powers in me are tossed about.
 
-"'11. I am become powerless in the presence of all the rulers of the æons, who hate me, and in the presence of the four-and-twenty emanations, in whose region I was. And my brother, my
+"'11. I am become powerless in the presence of all the rulers of the æons, who hate me, and in the presence of the four-and-twenty emanations, in whose region I was. 
 
-p. 72
-
-pair, was afraid to help me, because of that in which they have set me.
+My brother, my pair, was afraid to help me, because of that in which they have set me.
 
 "'12. And all the rulers of the height have counted me as matter in which is no light. I am become as a material power which hath fallen out of the rulers,
 
@@ -64,7 +67,3 @@ pair, was afraid to help me, because of that in which they have set me.
 "'17. Let me not be despised, for I have sung praises unto thee, O Light. Let chaos cover the emanations of Self-willed, let them be led down into the darkness.
 
 "'18. Let the mouth of them be shut up, who would devour me with guile, who say: Let us take the whole light in her,--although I have done them no ill.'"
-
-
-
-
