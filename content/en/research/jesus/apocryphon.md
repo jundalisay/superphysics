@@ -429,7 +429,11 @@ But those who were strangers to him did not listen to him. It is not as Moses sa
 
 He made a plan with his powers. He sent his angels to the daughters of men, that they might take some of them for themselves and raise offspring for their enjoyment. And at first they did not succeed. 
 
-When they had no success, they gathered together again and they made a plan together. They created a counterfeit spirit, who resembles the Spirit who had descended, so as to pollute the souls through it. And the angels changed themselves in their likeness into the likeness of their mates (the daughters of men), filling them with the spirit of darkness, which they had mixed for them, and with evil. They brought gold and silver and a gift and copper and iron and metal and all kinds of things. And they steered the people who had followed them into great troubles, by leading them astray with many deceptions. They (the people) became old without having enjoyment. 
+When they had no success, they gathered together again and they made a plan together. 
+
+They created a counterfeit spirit, who resembles the Spirit who had descended, so as to pollute the souls through it. And the angels changed themselves in their likeness into the likeness of their mates (the daughters of men), filling them with the spirit of darkness, which they had mixed for them, and with evil. They brought gold and silver and a gift and copper and iron and metal and all kinds of things.
+
+They steered the people who had followed them into great troubles, by leading them astray with many deceptions. They (the people) became old without having enjoyment. 
 
 They died, not having found truth and without knowing the God of truth. And thus the whole creation became enslaved forever, from the foundation of the world until now. And they took women and begot children out of the darkness according to the likeness of their spirit. And they closed their hearts, and they hardened themselves through the hardness of the counterfeit spirit until now.
 
