@@ -3,6 +3,7 @@ heading: "Tablet 1"
 title: "The Rise of Tiamat"
 weight: 2
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "Tiamat"
 ---
 

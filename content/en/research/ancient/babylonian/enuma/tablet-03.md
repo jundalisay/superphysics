@@ -3,6 +3,7 @@ heading: "Tablet 3"
 title: "Ansar Urges Gaga to Fight Tiamat"
 weight: 8
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "To avenge Apsu, Tiamat planned evil"
 ---
 

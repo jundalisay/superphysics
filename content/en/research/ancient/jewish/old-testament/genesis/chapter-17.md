@@ -1,23 +1,23 @@
 ---
 heading: Genesis 17
 title: "Abram Becomes Abraham"
-description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
+description: "We replace God with the Archon Saklas to match Ra's Law of One, the Gnostic texts, and the Babylonian texts"
 weight: 32
 c: "firebrick"
-a: "Anu"
+a: "Saklas"
 ---
 
 
-<sup>1</sup> When Abram was 99 years old, Anu appeared to him:
+<sup>1</sup> When Abram was 99 years old, Saklas appeared to him:
 
-{{< l a="Anu" >}}
-I am the Almighty Anu. Walk before me and be perfect. <sup>2</sup> I will make my covenant between me and you, and will multiply you exceedingly.  
+{{< l a="Saklas" >}}
+I am the Almighty Saklas. Walk before me and be perfect. <sup>2</sup> I will make my covenant between me and you, and will multiply you exceedingly.  
 {{< /l >}}
 
 
-<sup>3</sup> Abram fell on his face. Anu said:
+<sup>3</sup> Abram fell on his face. Saklas said:
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 <sup>4</sup> My covenant is with you. You shall be a father of many nations. <sup>5</sup> You will now be called Abraham and not Abram for I made you a father of many nations. <sup>6</sup> I will make you exceeding fruitful. I will make nations of you, and kings shall come out of you. 
 
 <sup>7</sup> I will establish my covenant between you and me and your seed after you in their generations for an everlasting covenant, to be a God unto you, and to your seed after you.
@@ -26,7 +26,7 @@ I am the Almighty Anu. Walk before me and be perfect. <sup>2</sup> I will make m
 {{< /l >}}
 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 <sup>9</sup> You, and your seed after you in their generations, shall keep my covenant. <sup>10</sup> This is my covenant, which you shall keep, between me and you and your seed after you. Every man child among you shall be circumcised. 
 
 <sup>11</sup> You shall circumcise the flesh of your foreskin. It shall be a token of the covenant between me and you. 
@@ -35,7 +35,7 @@ I am the Almighty Anu. Walk before me and be perfect. <sup>2</sup> I will make m
 {{< /l >}}
 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 <sup>13</sup> He that is born in your house, and he that is bought with your money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.
 
 <sup>14</sup> The uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant.
@@ -55,7 +55,7 @@ Shall a child be born unto him that is 100 years old? Shall Sarah, that is 90 ye
 {{< /r >}}
 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 <sup>19</sup> Sarah shall bear you a son. You shall call him Isaac. I will establish my covenant with him for an everlasting covenant, [and] with his seed after him. 
 
 <sup>20</sup> I have blessed Ishmael, and will make him fruitful. I will multiply him exceedingly. He shall beget 12 princes. I will make him a great nation. <sup>21</sup> But my covenant will I establish with Isaac, which Sarah shall bear unto you at this set time in the next year. 

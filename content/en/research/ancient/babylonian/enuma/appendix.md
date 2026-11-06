@@ -3,6 +3,7 @@ heading: "Appendix"
 title: "The Fight With Tiamat"
 weight: 200
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "Tiamat"
 ---
 

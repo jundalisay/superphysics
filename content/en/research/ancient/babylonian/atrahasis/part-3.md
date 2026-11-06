@@ -2,6 +2,7 @@
 title: "Atraḥasis and the Elders"
 weight: 10
 c: "darkslategray"
+image: "/photos/medieval/adam.jpg"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

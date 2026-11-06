@@ -3,6 +3,7 @@ heading: "Tablet 4"
 title: "Marduk Prepares to Fight Tiamat"
 weight: 10
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "O Marduk, thou art chiefest among the great gods, your fate is unequaled, thy word is Anu!"
 ---
 

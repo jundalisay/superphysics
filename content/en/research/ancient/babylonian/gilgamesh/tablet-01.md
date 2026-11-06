@@ -1,7 +1,8 @@
 ---
-title: "THE TYRANNY OF GILGAMISH, AND THE CREATION OF ENKIDU"
+title: "The Tyranny Of Gilgamish, And The Creation Of Enkidu"
 weight: 4
 c: "darkslategray"
+image: "/photos/medieval/bull.jpg"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
 draft: true
 ---

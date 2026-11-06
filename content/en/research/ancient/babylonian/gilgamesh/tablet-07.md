@@ -1,7 +1,7 @@
 ---
 title: "The Death of Enkidu"
 weight: 19
-image: "/covers/gilga.jpg"
+image: "/photos/medieval/bull.jpg"
 description: "In my dream, Anu, Enlil, and Shamash held a council"
 --- 
 

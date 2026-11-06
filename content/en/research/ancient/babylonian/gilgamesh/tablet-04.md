@@ -2,6 +2,7 @@
 title: "The Journey to the Cedar Forest"
 weight: 4
 c: "darkslategray"
+image: "/photos/medieval/bull.jpg"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
 draft: true
 ---

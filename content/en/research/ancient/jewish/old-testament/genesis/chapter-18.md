@@ -1,16 +1,16 @@
 ---
 heading: Genesis 18
-title: "Anu eats with Abraham"
-description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
+title: "Saklas eats with Abraham"
+description: "We replace God with the Archon Saklas to match Ra's Law of One, the Gnostic texts, and the Babylonian texts"
 weight: 34
 c: "firebrick"
-a: "Anu"
+a: "Saklas"
 ---
 
 
-<sup>1</sup> Anu appeared unto him in the plains of Mamre while he was sitting in the tent door in the heat of the day.
+<sup>1</sup> Saklas appeared unto him in the plains of Mamre while he was sitting in the tent door in the heat of the day.
 
-<sup>2</sup> Three men stood by Anu. So Abraham ran to meet them from the tent door, and bowed himself toward the ground <sup>3</sup> and said:
+<sup>2</sup> Three men stood by Saklas. So Abraham ran to meet them from the tent door, and bowed himself toward the ground <sup>3</sup> and said:
 
 {{< l a="Abraham" >}}
 My Lord, if now I have found favour in your sight, pass not away, I pray you, from your servant.
@@ -35,7 +35,7 @@ Make ready quickly 3 measures of fine meal, knead it, and make cakes upon the he
 
 <sup>9</sup> They said to him:
 
-{{< l a="Anu Agents" >}}
+{{< l a="Saklas Agents" >}}
 Where is Sarah your wife?
 {{< /l >}}
 
@@ -43,7 +43,7 @@ Where is Sarah your wife?
 In the tent
 {{< /l >}}
 
-{{< l a="Anu Agents" >}}
+{{< l a="Saklas Agents" >}}
 <sup>10</sup> I will return to you after 1 year and Sarah shall have a son.
 {{< /l >}}
 
@@ -59,41 +59,43 @@ After I am waxed old shall I have pleasure, my lord being old also?
 {{< /r >}}
 
 
-<sup>13</sup> Anu asked Abraham:
+<sup>13</sup> Saklas asked Abraham:
 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old? 
 
-<sup>14</sup> Is any thing too hard for Anu? At the time appointed I will return unto you, according to the time of life, and Sarah shall have a son.
+<sup>14</sup> Is any thing too hard for Saklas? At the time appointed I will return unto you, according to the time of life, and Sarah shall have a son.
 {{< /l >}}
 
 
 <sup>15</sup> Then Sarah denied, saying:
 
-No I didn't laugh
 
+{{< r a="Sarah" >}}
+No I didn't laugh
+{{< /r >}}
 
 She was afraid. 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 You laughed. 
 {{< /l >}}
 
 <sup>16</sup> The men rose up and looked towards Sodom. Abraham went with them to bring them on the way. 
 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 <sup>17</sup> Shall I hide from Abraham that thing which I do. <sup>18</sup> Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?  
 
-<sup>19</sup> For I know him, that he will command his children and his household after him, and they shall keep the way of Anu, to do justice and judgment; that Anu may bring upon Abraham that which he hath spoken of him.
+<sup>19</sup> For I know him, that he will command his children and his household after him, and they shall keep the way of Saklas, to do justice and judgment; that Saklas may bring upon Abraham that which he hath spoken of him.
 
 <sup>20</sup> The cry of Sodom and Gomorrah is great. Their sin is very grievous. <sup>21</sup> I will go down now, and see whether they have done altogether according to the cry of it, which is come
 unto me; and if not, I will know.
 {{< /l >}}
 
 
-<sup>22</sup> The men went toward Sodom: but Abraham stood yet before Anu. 
+<sup>22</sup> The men went toward Sodom: but Abraham stood yet before Saklas. 
 
 <sup>23</sup> Abraham drew near and said:
 
@@ -106,7 +108,7 @@ Will you also destroy the righteous with the wicked?
 {{< /r >}}
 
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 <sup>26</sup> If I find in Sodom 50 righteous within the city, then I will spare all the place for their sakes. 
 {{< /l >}}
 
@@ -120,7 +122,7 @@ ashes: {18:28}  -->
 Suppose there are only 45 righteous. Will you destroy all the city for [lack of] five?
 {{< /r >}}
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 If I find there forty and five, I will not destroy it.
 {{< /l >}}
 
@@ -129,7 +131,7 @@ If I find there forty and five, I will not destroy it.
 <sup>29</sup> If there are 40 found there?
 {{< /r >}}
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 I will not do [it] for forty’s sake.
 {{< /l >}}
 
@@ -138,7 +140,7 @@ I will not do [it] for forty’s sake.
 <sup>30</sup> Please do not be angry: if 30 shall be found there?
 {{< /r >}}
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 I will not do [it,] if I find thirty there.
 {{< /l >}}
 
@@ -146,7 +148,7 @@ I will not do [it,] if I find thirty there.
 <sup>31</sup> If there shall be 20 found there?
 {{< /r >}}
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 I will not destroy [it] for twenty’s sake.
 {{< /l >}}
 
@@ -155,9 +157,9 @@ I will not destroy [it] for twenty’s sake.
 <sup>32</sup> Oh please do not be angry: if 10 shall be found there?
 {{< /r >}}
 
-{{< l a="Anu" >}}
+{{< l a="Saklas" >}}
 I will not destroy [it] for ten’s sake.
 {{< /l >}}
 
 
-<sup>33</sup> Anu went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
+<sup>33</sup> Saklas went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.

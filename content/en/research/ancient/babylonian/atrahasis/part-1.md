@@ -2,6 +2,7 @@
 title: "The Complaints of the Lower Gods"
 weight: 4
 c: "darkslategray"
+image: "/photos/medieval/adam.jpg"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

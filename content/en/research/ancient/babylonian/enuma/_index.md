@@ -2,6 +2,7 @@
 title: "Enuma Elish The Epic Of Creation"
 weight: 2
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
 ---
 
@@ -15,3 +16,4 @@ anskar, kishar
 Anu 
 
 Nudimmud -->
+

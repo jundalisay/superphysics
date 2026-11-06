@@ -1,13 +1,16 @@
 ---
-title: "The Anunnaki Quran"
+title: "The Archon Quran"
 date: 2024-10-01
-image: "/photos/medieval/anu.jpg"
+image: "/photos/medieval/archon.jpg"
 description: "The war in Lebanon and the destruction of Gaza prove the strength of Israel over Islam"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: Juan
+aliases:
+  /social/supersociology/anunnaki-quran
 ---
+
 
 
 The war in Lebanon and the destruction of Gaza prove the strength of Israel over Islam. This is totally different from the weakness of the Jews during the Islamic conquest. 
@@ -16,8 +19,20 @@ To explain this, we trace the history of the Middle East from the Islamic times 
 
 By going back to the Sumerian texts, we can complete the picture of the Middle East to the dominance of the Anunnaki "gods". 
 
-{{< youtube sxq8vIm4Cwc >}}
+<!-- {{< youtube sxq8vIm4Cwc >}} -->
 
+
+This dominance faded during the war between Atlantis and Egypt, as mentioned by Critias and Timaeus. 
+
+This created a power vacuum that was filled by the Archons called Yahweh, which according to Ra were from Orion, in 1600 to 1300 BC. 
+- According to Semjase of Billy Meier, there were many Yahwehs
+- According to Ra, there were 2 main groups, one arrived in 1600 BC, another arrived in 1300 BC.
+- According to Pistis Sophia, Jesus was from the latter group that defeated the 1st group of Adamas
+
+
+<!-- n n="Update April 2026: We replace Enki with Anu to emphasize the power of the Anunnaki over humans instead of the creation event" -->
+
+<!--  was replaced 
 
 These gods had 2 factions, represented by 2 brothers:
 
@@ -31,18 +46,9 @@ So we use Enki to replace:
 - Yahweh in the Old Testament, as the [Anunnaki Old Testament](/research/ancient/jewish)
 
 
-
-<!-- n n="Update April 2026: We replace Enki with Anu to emphasize the power of the Anunnaki over humans instead of the creation event" -->
-
-
 In this way, one can read the Sumerian, Babylonian, Jewish texts, and then the Quran to find the story of the Middle Eastern people consistent. 
 
-
 ## The Anunnaki History
-
-<!-- While trying to update my Maharlika book, I wanted to prove that the Austronesians came from a land mass east of Taiwan that sunk. But the only information that I could find was about Atlantis which is on the other side of the globe. 
-
-So I ended up looking into Atlantis instead, based on the Sumerian texts.  -->
 
 500,000 years ago an alien race called the Annunaki went to Earth to mine gold. This was because their planet had severe global warming. 
 
@@ -108,15 +114,15 @@ Since the US is descended from the Roman Empire via Britain, this 13,000 year co
 
 According to this Anunnaki history, the Jews and Arabs are in the same Enki faction going against the West which was allied with Enlil. So why are they fighting each other?  
 
-<!-- But Enlil was the proper leader of the Anunnaki on Earth. This is why he is naturally superior to Enki.  -->
+But Enlil was the proper leader of the Anunnaki on Earth. This is why he is naturally superior to Enki.  -->
 
-This is because the Jews sided with the West starting from the 20th century, thanks to their dominance of the financial industry. This matched the switch of the West towards banking and finance.  
+<!-- This is because the Jews sided with the West starting from the 20th century, thanks to their dominance of the financial industry. This matched the switch of the West towards banking and finance.  
 
 This is in contrast with Islam which clearly bans usury and interest on loans.
 
 Instead of earning from finance, the Arabs earned through trade of goods, even in the trade of slaves. 
 
-This made them naturally weaker from the 20th century, different from the times of the Crusades when they were superior to the West and the Jews. 
+This made them naturally weaker from the 20th century, different from the times of the Crusades when they were superior to the West and the Jews. -->
 
 
 <!-- Chapter | Topic | Enki? 

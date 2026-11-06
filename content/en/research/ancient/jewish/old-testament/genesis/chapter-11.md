@@ -1,10 +1,10 @@
 ---
 heading: Genesis 11
 title: "Tower of Babel"
-description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
+description: "We replace God with the Archon Saklas to match Ra's Law of One, the Gnostic texts, and the Babylonian texts"
 weight: 20
 c: "firebrick"
-a: "Anu"
+a: "Saklas"
 ---
 
 
@@ -14,22 +14,25 @@ a: "Anu"
 
 <sup>3</sup> They said one to another:
 
-"Let us make brick, and burn them throughly."
+{{< r a="People" >}}
+Let us make brick, and burn them throughly.
+{{< /r >}}
+
 
 They had brick for stone, and slime had they for mortar. 
 
 <sup>4</sup> Let us build us a city and a tower, whose top may reach heaven. Let us make us a name, lest we be scattered abroad on the face of the whole earth. 
 
-<sup>5</sup> Anu came down to see the city and the tower, which the children of men builded and said:
+<sup>5</sup> The Archon Saklas came down to see the city and the tower, which the children of men builded and said:
 
-<sup>6</sup> Behold, the people are one. They have all one language. This they begin to do. Now nothing will be restrained from them, which they have imagined to do.
+{{< l a="Saklas" >}}
+<sup>6</sup> Behold, the people are one. They have all one language. This they begin to do. Now nothing will be restrained from them, which they have imagined to do. <sup>7</sup> Let us go down and there confound their language, that they may not understand one another’s speech. 
+{{< /l >}}
 
-<sup>7</sup> Let us go down and there confound their language, that they may not understand one another’s speech. 
-
-<sup>8</sup> So Anu scattered them abroad from thence upon the face of all the earth. They
+<sup>8</sup> So Saklas scattered them abroad from thence upon the face of all the earth. They
 left off to build the city. 
 
-<sup>9</sup> It was called Babel because Anu there confounded the language of all the earth. From there, Anu scattered them abroad on the face of all the earth.
+<sup>9</sup> It was called Babel because Saklas there confounded the language of all the earth. From there, Saklas scattered them abroad on the face of all the earth.
 
 <sup>10</sup> These are the generations of Shem: Shem [was] 100 years old, and begat Arphaxad 2 years after the flood.
 
@@ -71,4 +74,4 @@ They went forth with them from Ur of the Chaldees, to go into the land of Canaan
 
 They came unto Haran, and dwelt there. 
 
-<sup>32</sup> And the days of Terah were two hundred and five years: and Terah died in Haran.
+<sup>32</sup> And the days of Terah were 205 years: and Terah died in Haran.

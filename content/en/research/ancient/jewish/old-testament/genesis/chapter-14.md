@@ -1,10 +1,10 @@
 ---
 heading: Genesis 14
 title: "Abram Leaves Egypt"
-description: "We replace God with Anu of the Anunnaki who created humans from Homo Erectus, so that the Bible story actually makes sense" 
+description: "We replace God with the Archon Saklas to match Ra's Law of One, the Gnostic texts, and the Babylonian texts"
 weight: 26
 c: "firebrick"
-a: "Anu"
+a: "Saklas"
 ---
 
 
@@ -53,9 +53,9 @@ They joined battle with them in the valley of Siddim.
 <sup>19</sup> He blessed Abram, and said:
 
 {{< r a="Melchizedek" >}}
-Blessed be Abram of Anu, possessor of heaven and earth.
+Blessed be Abram of Saklas, possessor of heaven and earth.
 
-<sup>20</sup> Blessed be Anu which had delivered your enemies into your hand.
+<sup>20</sup> Blessed be Saklas which had delivered your enemies into your hand.
 
 He gave him tithes of all. 
 {{< /r >}}
@@ -68,7 +68,7 @@ Give me the persons, and take the goods to yourself.
 {{< /r >}}
 
 {{< l a="Abram" >}}
-<sup>22</sup>  I have lifted up my hand to Anu, the possessor of heaven and earth <sup>23</sup> so that I will not take from a thread even to a shoelatchet, and that I will not take any thing that is yours, lest you shoulde say, I have made Abram rich.
+<sup>22</sup>  I have lifted up my hand to Saklas, the possessor of heaven and earth <sup>23</sup> so that I will not take from a thread even to a shoelatchet, and that I will not take any thing that is yours, lest you shoulde say, I have made Abram rich.
 
 <sup>24</sup> Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 {{< /l >}}

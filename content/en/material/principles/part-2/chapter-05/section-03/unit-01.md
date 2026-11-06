@@ -12,15 +12,14 @@ icon: "Juan"
 ---
 
 
-
 Stellar vortices are of som1, with a mos1 center. 
 
 These can be classified according to:
 
 1.  Vortex rotation direction
 
-- Clockwise: Stars
-- Anticlockwise: Pulsars
+- Clockwise: Pulsars
+- Anticlockwise: Stars
 
 
 2. Vortex energy quantity

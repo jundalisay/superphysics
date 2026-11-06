@@ -2,6 +2,7 @@
 title: "Proposals by Ea, Belet-ili, and Enki"
 weight: 8
 c: "darkslategray"
+image: "/photos/medieval/adam.jpg"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

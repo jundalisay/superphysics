@@ -3,6 +3,7 @@ heading: "Tablet 7"
 title: "The Creations of Marduk"
 weight: 16
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "Marduk the way-station engineer"
 ---
 

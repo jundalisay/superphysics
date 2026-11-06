@@ -3,6 +3,7 @@ heading: "Tablet 3"
 title: "The Decision to Defeat Tiamat"
 weight: 9
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "To avenge Apsu, Tiamat planned evil"
 ---
 

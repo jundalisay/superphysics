@@ -1,7 +1,7 @@
 ---
 title: "The Story Of the Flood"
 weight: 29
-image: "/covers/gilga.jpg"
+image: "/photos/medieval/bull.jpg"
 description: "I will tell you a secret of the gods. The old city Shuruppak is on the banks of the Euphrates. It had gods inside it"
 ---
 

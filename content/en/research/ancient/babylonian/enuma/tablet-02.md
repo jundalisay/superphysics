@@ -3,6 +3,7 @@ heading: "Tablet 2"
 title: "Ansar Urges Ea [Enki] to Fight Tiamat"
 weight: 6
 c: "darkslategray"
+image: "/photos/medieval/anu.jpg"
 description: "To avenge Apsu, Tiamat planned evil"
 ---
 
